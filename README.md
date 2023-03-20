@@ -7,6 +7,6 @@
 - 💬 Ask me about Python or any tech related stuff
 - 📫 How to reach me: Insta
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I spent much time on listening songs.
+- ⚡ Fun fact: I spent most of my time listening songs.
 
 ![Sidra-fatima's Stats](https://github-readme-stats.vercel.app/api?username=Sidra-fatima&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
